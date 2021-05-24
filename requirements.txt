@@ -1,2 +1,3 @@
-pyttsx3 librairies
-Speechrecogbnition librairies
+
+pyttsx3 librairy(for install type this command int your WIN terminal (py -m pip install pyttxs3).
+Speechrecogbnition librairy
